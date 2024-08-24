@@ -14,3 +14,7 @@ data.json存放购买的链接
 
 最大支持1000条，也可以在代码中修改
 
+
+记得手动创建两个文件夹，ZIP、output
+
+![alt text](image.png)
